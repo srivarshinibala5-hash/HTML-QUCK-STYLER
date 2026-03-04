@@ -7,11 +7,16 @@ Users can:
 📖 Follow a built-in guide for section detection
 The tool automatically structures sections like Hero, Features, About, Portfolio, Pricing, Testimonials, Contact, and Footer based on user input.
 
-![WhatsApp Image 2026-03-04 at 11 18 51 AM](https://github.com/user-attachments/assets/394899c0-f1e9-40c5-9634-306e66f20bc7)
-![WhatsApp Image 2026-03-04 at 11 18 48 AM](https://github.com/user-attachments/assets/c10c9eb3-d0e6-4c5d-9f5c-f98a8368e6e2)
-![WhatsApp Image 2026-03-04 at 11 18 48 AM (1)](https://github.com/user-attachments/assets/4692acea-d894-437b-aaed-71e5853d6476)
-![WhatsApp Image 2026-03-04 at 11 18 43 AM](https://github.com/user-attachments/assets/25e43874-13ef-405c-833b-5772e80641b5)
-![WhatsApp Image 2026-03-04 at 11 18 42 AM](https://github.com/user-attachments/assets/1642ffab-9d9a-479b-9bb4-7a705be3219b)
+OUTPUT IMAGE
+![WhatsApp Image 2026-03-04 at 11 18 42 AM (1)](https://github.com/user-attachments/assets/a191b67b-d61c-400e-a5d8-fb3567717410)
+![WhatsApp Image 2026-03-04 at 11 18 43 AM](https://github.com/user-attachments/assets/b42041f7-61f1-4b41-a840-93bb5681dbfd)
+![WhatsApp Image 2026-03-04 at 11 18 48 AM](https://github.com/user-attachments/assets/3b2e3651-a004-44a2-a9b1-2a8e0936eef3)
+![WhatsApp Image 2026-03-04 at 11 18 48 AM (1)](https://github.com/user-attachments/assets/b9d0a9c1-3244-4a04-8958-fc98626ca0e0)
+![WhatsApp Image 2026-03-04 at 11 18 51 AM](https://github.com/user-attachments/assets/2f2dc83c-0ed3-408b-9f3f-c751f9295e5e)
+
+
+
+
 
 
 
